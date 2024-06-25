@@ -26,7 +26,7 @@ The Bakery website showcases a variety of bakery products such as cakes and cupc
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/bakery-website.git
+   git clone https://github.com/Noman-Rachbhare/Bakery-app.git
    cd bakery-website
    ```
 
